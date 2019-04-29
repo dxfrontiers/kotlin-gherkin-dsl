@@ -1,0 +1,54 @@
+# GitPitch In-60-Seconds - A Very Short Tutorial.
+#
+
+#
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : night
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override: assets/css/PITCHME.css
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+logo : assets/img/logo.png
+logo-postion : top-left
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote : "Domain Specific Languages with Kotlin - JFS 2019 (© 2019 <a href='https://www.digitalfrontiers.de'>Digital Frontiers GmbH & Co. KG</a>)"
+
+#
+# Published Setting
+# Doc: https://gitpitch.com/docs/settings/published
+#
+published : true
+
+#
+# Twitter Card Settings [Pro Only]
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "Domain Specific Languages with Kotlin - JFS 2019"
+description : "An introduction to creating DSLs with Kotlin."
+#thumbnail : N/A
+
+#
+# Custom settings
+#
+background: assets/img/background.jpg
+highlight: atom-one-dark
+code-line-numbers : false
