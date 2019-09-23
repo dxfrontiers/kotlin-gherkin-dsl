@@ -30,7 +30,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "Domain Specific Languages with Kotlin - JFS 2019 (© 2019 <a href='https://www.digitalfrontiers.de'>Digital Frontiers GmbH & Co. KG</a>)"
+footnote : "Domain Specific Languages with Kotlin (© 2019 <a href='https://www.digitalfrontiers.de'>Digital Frontiers GmbH & Co. KG</a>)"
 
 #
 # Published Setting
@@ -42,7 +42,7 @@ published : true
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "Domain Specific Languages with Kotlin - JFS 2019"
+title : "Creating Domain Specific Languages with Kotlin"
 description : "An introduction to creating DSLs with Kotlin."
 #thumbnail : N/A
 

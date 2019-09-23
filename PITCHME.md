@@ -1,9 +1,9 @@
 @snap[midpoint text-04 span-100]
-# Domain Specific Languages entwerfen mit Kotlin
+# Creating Domain Specific Languages with Kotlin
 <hr>
-@fa[file-powerpoint](https://gitpitch.com/dxfrontiers/kotlin-gherkin-dsl)
+@fa[file-powerpoint](https://gitpitch.com/dxfrontiers/kotlin-gherkin-dsl/kugs)
 <br>
-@fab[github](https://github.com/dxfrontiers/kotlin-gherkin-dsl)
+@fab[github](https://github.com/dxfrontiers/kotlin-gherkin-dsl/tree/kugs)
 <hr>
 ## Frank Scheffler
 @img[profile-pic span-15](https://pbs.twimg.com/profile_images/1023243380871110656/C2IkwvVv_400x400.jpg)
@@ -12,8 +12,7 @@
 @snapend
 
 @snap[south-east span-15 text-05 text-right top-right]
-@img[](https://www.java-forum-stuttgart.de/_data/JFS-Logo.jpg)
-@fa[hashtag](jfs2019)
+@img[](https://secure.meetupstatic.com/photos/event/e/7/9/2/600_472859282.jpeg)
 @snapend
 
 @snap[south text-03 text-left]
@@ -28,10 +27,6 @@
 
 @snap[north-east span-60]
 @img[](assets/img/kotlin_tagcloud.png)
-@snapend
-
-@snap[west span-50 fragment]
-@quote[Wer hat schon mal mit Kotlin gearbeitet?]
 @snapend
 
 +++?code=src/main/kotlin/KotlinImmutabilityNullSafety.kt&lang=kotlin&title=Immutability and Null Safety
@@ -262,7 +257,7 @@ Repeated Test Execution
 @title[Final Question]
 
 @snap[north-east text-09 span-60]
-Wofür werden Sie morgen eine **Kotlin DSL** erstellen
+What's the next *Kotlin DSL* you'll be designing
 @fa[question fa-spin]
 @snapend
 
@@ -271,16 +266,16 @@ Wofür werden Sie morgen eine **Kotlin DSL** erstellen
 @title[The End]
 
 @snap[north-east text-09 span-60]
-Wofür werden Sie morgen eine **Kotlin DSL** erstellen
+What's the next *Kotlin DSL* you'll be designing
 @fa[question fa-spin]
 @snapend
 
 @snap[midpoint text-04 span-100]
-# Domain Specific Languages entwerfen mit Kotlin
+# Creating Domain Specific Languages with Kotlin
 <hr>
-@fa[file-powerpoint](https://gitpitch.com/dxfrontiers/kotlin-gherkin-dsl)
+@fa[file-powerpoint](https://gitpitch.com/dxfrontiers/kotlin-gherkin-dsl/kugs)
 <br>
-@fab[github](https://github.com/dxfrontiers/kotlin-gherkin-dsl)
+@fab[github](https://github.com/dxfrontiers/kotlin-gherkin-dsl/tree/kugs)
 @snapend
 
 @snap[south-west span-50 text-03 text-left]
@@ -313,7 +308,7 @@ Wofür werden Sie morgen eine **Kotlin DSL** erstellen
 
 @snap[north text-04 span-100]
 <br><br><br>
-# Domain Specific Languages entwerfen mit Kotlin
+# Creating Domain Specific Languages with Kotlin
 <hr>
 ## Frank Scheffler
 @snapend
@@ -325,7 +320,7 @@ Wofür werden Sie morgen eine **Kotlin DSL** erstellen
 @snapend
 
 @snap[south-east span-25]
-@img[](assets/img/Button_speaker_2019.jpg)
+@img[](https://secure.meetupstatic.com/photos/event/e/7/9/2/600_472859282.jpeg)
 @snapend
 
 @snap[south-west span-27]
